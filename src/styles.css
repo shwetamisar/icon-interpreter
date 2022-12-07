@@ -1,0 +1,13 @@
+.App {
+  font-family: roboto;
+  text-align: center;
+  background-color: #0c4a6e;
+}
+
+.input {
+  border: 1px solid;
+}
+
+.output {
+  margin-top: 2rem;
+}
